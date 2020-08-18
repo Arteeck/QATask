@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+# IDE files
+.idea
+*.iml
+target/
+build
+
+#allure files
+allure-resuts/
+.allure
