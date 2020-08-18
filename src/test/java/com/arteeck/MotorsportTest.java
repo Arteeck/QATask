@@ -13,7 +13,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class MotorsportTest {
 
-    private String mail = "artemy.gordon@gmail.com";
+    private String mail = "artemy.gordon@icloud.com";
     private String password = "12345678";
     private LocalDateTime expectedSubscriptionStart = LocalDateTime.now();
     private LocalDateTime expectedSubscriptionEnd = expectedSubscriptionStart.plusMonths(1);
